@@ -1,3 +1,5 @@
+# Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling
+Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu and Helen Meng
 ### Abstract
 This paper proposes an any-to-many location-relative, sequence-to-sequence (seq2seq) based, non-parallel voice conversion approach. 
 In this approach, we combine a bottle-neck feature extractor (BNE) with a seq2seq based synthesis module. During the training stage, 
