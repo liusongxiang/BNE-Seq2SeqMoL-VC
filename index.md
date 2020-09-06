@@ -6,7 +6,7 @@
 <center>Human-Computer Communications Laboratory (HCCL), The Chinese University of Hong Kong</center>  
 
 
-### Abstract
+## Abstract
 This paper proposes an any-to-many location-relative, sequence-to-sequence (seq2seq) based, non-parallel voice conversion approach. 
 In this approach, we combine a bottle-neck feature extractor (BNE) with a seq2seq based synthesis module. During the training stage, 
 an encoder-decoder based hybrid connectionist-temporal-classification-attention (CTC-attention) phoneme recognizer is trained, 
@@ -20,3 +20,7 @@ Objective and subjective evaluations shows that the proposed any-to-many approac
 naturalness and speaker similarity. Ablation studies are conducted to confirm the effectiveness of feature selection and model design strategies 
 in the proposed approach. The proposed VC approach can readily be extended to support any-to-any VC (also known as one/few-shot VC), and achieve 
 high performance according to objective and subjective evaluations.
+
+Paper link: arxiv
+Source Codes: Comming soon!
+
