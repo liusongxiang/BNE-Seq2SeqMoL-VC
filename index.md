@@ -230,10 +230,11 @@ Source Codes: coming soon!
 
 ## Previous Demo Pages
 
-Voice Conversion Across Arbitrary Speakers Based on a Single Target-Speaker Utterance [Demo page](https://vcdemo.github.io)
+Voice Conversion Across Arbitrary Speakers Based on a Single Target-Speaker Utterance [Demo page](https://vcdemo.github.io) [Paper](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/sxliu.pdf)
 
-Jointly Trained Conversion Model and WaveNet Vocoder for Non-Parallel Voice Conversion Using Mel-Spectrograms and Phonetic Posteriorgrams [Demo page](https://ooshaunoo.github.io/JntTrn-PPGMelsp-VC-samples/)
 
-End-to-End Accent Conversion Without Using Native Utterances [Demo page](https://liusongxiang.github.io/end2endAC/)
+Jointly Trained Conversion Model and WaveNet Vocoder for Non-Parallel Voice Conversion Using Mel-Spectrograms and Phonetic Posteriorgrams [Demo page](https://ooshaunoo.github.io/JntTrn-PPGMelsp-VC-samples/)  [Paper](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/INTERSPEECH2019_SongxiangLiu_final.pdf)
 
-Transferring Source Style in Non-Parallel Voice Conversion [Demo Page](https://liusongxiang.github.io/StyleTransferVC/)
+End-to-End Accent Conversion Without Using Native Utterances [Demo page](https://liusongxiang.github.io/end2endAC/) [Paper](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/ICASSP2020_e2eAC%20(1).pdf)
+
+Transferring Source Style in Non-Parallel Voice Conversion [Demo Page](https://liusongxiang.github.io/StyleTransferVC/) [Paper](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/INTERSPEECH_2020.pdf)
