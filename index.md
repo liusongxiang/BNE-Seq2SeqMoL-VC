@@ -151,3 +151,28 @@ Source Codes: coming soon!
 | --- | --- | --- |
 | <audio src="wavs/recordings/clb/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_bdl/clb_arctic_a0354_to_bdl.wav" controls preload></audio> | 
 | --- | --- | --- |
+
+### Female (clb) to  Female (slt)
+
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0015_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0080.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0080.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0080_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0101.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0101.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0101_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0135.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0135.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0135_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0179.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0179.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0179_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0197.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0197.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0197_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0209.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0209.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0209_to_slt.wav" controls preload></audio> | 
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0247.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0247.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0247_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0316.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0316.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0316_to_slt.wav" controls preload></audio> |
+| --- | --- | --- |
+| <audio src="wavs/recordings/clb/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/any-to-any/clb_to_slt/clb_arctic_a0354_to_slt.wav" controls preload></audio> | 
+| --- | --- | --- |
