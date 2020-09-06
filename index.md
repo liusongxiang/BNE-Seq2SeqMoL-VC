@@ -1,10 +1,11 @@
 # <center> Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling</center>
 
-<center> Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu$^*$, Xunying Liu and Helen Meng</center>  
+<center> Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu*, Xunying Liu and Helen Meng</center>  
 
 
 <center>Human-Computer Communications Laboratory (HCCL), The Chinese University of Hong Kong</center>  
 
+*: Dr. Xixin Wu is with the Speech Group of the Machine Intelligence Laboratory, Engineering Department of Cambridge University
 
 ## Abstract
 This paper proposes an any-to-many location-relative, sequence-to-sequence (seq2seq) based, non-parallel voice conversion approach. 
@@ -226,3 +227,13 @@ Source Codes: coming soon!
 | --- | --- | --- |
 | <audio src="wavs/recordings/rms/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/recordings/slt/arctic_a0354.wav" controls preload></audio> | <audio src="wavs/any-to-any/rms_to_slt/rms_arctic_a0354_to_slt.wav" controls preload></audio> | 
 | --- | --- | --- |
+
+## Previous Demo Pages
+
+Voice Conversion Across Arbitrary Speakers Based on a Single Target-Speaker Utterance [Demo page](https://vcdemo.github.io)
+
+Jointly Trained Conversion Model and WaveNet Vocoder for Non-Parallel Voice Conversion Using Mel-Spectrograms and Phonetic Posteriorgrams [Demo page](https://ooshaunoo.github.io/JntTrn-PPGMelsp-VC-samples/)
+
+End-to-End Accent Conversion Without Using Native Utterances [Demo page](https://liusongxiang.github.io/end2endAC/)
+
+Transferring Source Style in Non-Parallel Voice Conversion [Demo Page](https://liusongxiang.github.io/StyleTransferVC/)
