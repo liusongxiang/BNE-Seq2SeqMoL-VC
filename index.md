@@ -29,11 +29,7 @@ Source Codes: coming soon!
 
 | **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> |
- <audio src="wavs/any-to-many/bne-seq2seqmol/clb_to_bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> |
- <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
- <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
- <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
+| <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/any-to-many/bne-seq2seqmol/clb_to_bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/seq2seqPR-durian/wav_clb_to_bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/ppg-vc/clb-to-bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> | <audio src="wavs/any-to-many/non-para-seq2seq/clb-to-bdl/clb_arctic_a0015_to_bdl.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- |
 | <audio src="wavs/recordings/clb/arctic_a0080.wav" controls preload></audio> | <audio src="wavs/recordings/bdl/arctic_a0080.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- |
