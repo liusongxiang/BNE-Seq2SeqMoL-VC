@@ -1,11 +1,9 @@
 # <center> Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling</center>
 
-<center> Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu*, Xunying Liu and Helen Meng</center>  
+<center> Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu and Helen Meng</center>  
 
 
 <center>Human-Computer Communications Laboratory (HCCL), The Chinese University of Hong Kong</center>  
-
-*: Dr. Xixin Wu is with the Speech Group of the Machine Intelligence Laboratory, Engineering Department of Cambridge University
 
 ## Abstract
 This paper proposes an any-to-many location-relative, sequence-to-sequence (seq2seq) based, non-parallel voice conversion approach. 
