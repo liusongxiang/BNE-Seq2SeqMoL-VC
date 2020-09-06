@@ -21,6 +21,107 @@ naturalness and speaker similarity. Ablation studies are conducted to confirm th
 in the proposed approach. The proposed VC approach can readily be extended to support any-to-any VC (also known as one/few-shot VC), and achieve 
 high performance according to objective and subjective evaluations.
 
-Paper link: arxiv
-Source Codes: Comming soon!
+Paper link: arxiv  
+Source Codes: coming soon!  
 
+## Any-to-Many VC Demo (10 utterances randomly chosen from the test set)
+### Female (clb) to Male (bdl)
+
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <audio src="/wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0080.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0080.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0101.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0101.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0135.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0135.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0179.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0179.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0197.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0197.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0209.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0209.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0247.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0247.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0316.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0316.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0354.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0354.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+
+### Female (clb) to Female (slt)
+
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <audio src="/wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0015.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0080.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0080.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0101.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0101.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0135.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0135.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0179.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0179.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0197.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0197.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0209.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0209.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0247.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0247.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0316.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0316.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/clb/arctic_a0354.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0354.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+
+
+### Male (rms) to Male (bdl)
+
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <audio src="/wavs/recordings/rms/arctic_a0015.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0015.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0080.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0080.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0101.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0101.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0135.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0135.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0179.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0179.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0197.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0197.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0209.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0209.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0247.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0247.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0316.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0316.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0354.wav" controls preload></audio> | <audio src="/wavs/recordings/bdl/arctic_a0354.wav" controls preload></audio> 
+| --- | --- | --- | --- | --- | --- |
+
+### Male (rms) to Female (slt)
+
+| **Source** | **Target** | **BNE-Seq2seqMoL (Proposed)** | **Seq2seqPR-DurIAN (Proposed)** | **PPG-VC** | **NonParaSeq2seq-VC** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <audio src="/wavs/recordings/rms/arctic_a0015.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0015.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0080.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0080.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0101.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0101.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0135.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0135.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0179.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0179.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0197.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0197.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0209.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0209.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0247.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0247.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0316.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0316.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
+| <audio src="/wavs/recordings/rms/arctic_a0354.wav" controls preload></audio> | <audio src="/wavs/recordings/slt/arctic_a0354.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- | --- |
