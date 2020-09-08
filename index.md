@@ -20,7 +20,7 @@ naturalness and speaker similarity. Ablation studies are conducted to confirm th
 in the proposed approach. The proposed VC approach can readily be extended to support any-to-any VC (also known as one/few-shot VC), and achieve 
 high performance according to objective and subjective evaluations.
 
-Paper link: arxiv  
+Paper link: [arXiv](https://arxiv.org/abs/2009.02725)  
 Source Codes: coming soon!  
 
 ## Any-to-Many VC Demo (10 utterances randomly chosen from the test set)
